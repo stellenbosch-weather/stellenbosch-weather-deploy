@@ -1,0 +1,11 @@
+# Ignore all hidden files
+.*
+
+# But re-include the .gitignore file itself
+!.gitignore
+
+# And re-include the .gitmodules file
+!.gitmodules
+
+/settings.conf
+/data-dumps/*.zip

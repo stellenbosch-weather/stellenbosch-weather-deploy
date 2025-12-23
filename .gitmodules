@@ -1,0 +1,6 @@
+[submodule "public_html"]
+	path = public_html
+	url = https://github.com/stellenbosch-weather/stellenbosch-weather-frontend.git
+[submodule "services"]
+	path = services
+	url = https://github.com/stellenbosch-weather/stellenbosch-weather-services.git
